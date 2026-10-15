@@ -1,0 +1,18 @@
+/* Footer එකේ Background එක නිල් පාට කිරීම */
+footer {
+    background-color: #4d77ff;
+}
+
+/* Footer එක ඇතුළේ තියෙන සියලුම අකුරු, Links සහ | ලකුණ සුදු පාට කිරීම */
+footer, 
+footer p, 
+footer span, 
+footer a {
+    color: #ffffff !important;
+}
+
+/* Link එක උඩට Mouse එක ගෙනිච්චත් සුදු පාටින්ම තියාගැනීම */
+footer a:hover {
+    color: #ffffff !important;
+    text-decoration: underline;
+}
